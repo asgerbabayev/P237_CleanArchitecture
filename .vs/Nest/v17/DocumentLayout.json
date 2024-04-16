@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asger\\Desktop\\Nest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A73F7A2-2573-4491-8CBA-3392B454D553}|src\\WebAPI\\WebAPI.csproj|c:\\users\\asger\\desktop\\nest\\src\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A73F7A2-2573-4491-8CBA-3392B454D553}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\asger\\desktop\\nest\\src\\infrastructure\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\asger\\desktop\\nest\\src\\infrastructure\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\asger\\desktop\\nest\\src\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\asger\\desktop\\nest\\src\\infrastructure\\persistance\\configurations\\common\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistance\\configurations\\common\\baseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4E7891-0F9A-4AA3-9F6E-030B96365D12}|src\\Domain\\Domain.csproj|c:\\users\\asger\\desktop\\nest\\src\\domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4E7891-0F9A-4AA3-9F6E-030B96365D12}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|c:\\users\\asger\\desktop\\nest\\src\\application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|solutionrelative:src\\application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A73F7A2-2573-4491-8CBA-3392B454D553}|src\\WebAPI\\WebAPI.csproj|c:\\users\\asger\\desktop\\nest\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A73F7A2-2573-4491-8CBA-3392B454D553}|src\\WebAPI\\WebAPI.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|c:\\users\\asger\\desktop\\nest\\src\\application\\common\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\asger\\desktop\\nest\\src\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B070CB-7A29-4E6F-BF13-AAFB2E642E38}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|c:\\users\\asger\\desktop\\nest\\src\\application\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|solutionrelative:src\\application\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|c:\\users\\asger\\desktop\\nest\\src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702E4E20-1D27-47FB-873E-97A42128AC75}|src\\Application\\Application.csproj|solutionrelative:src\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Services\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Services\\CategoryManager.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Services\\CategoryManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:23:00.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Persistance\\Configurations\\Common\\BaseConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistance\\Configurations\\Common\\BaseConfiguration.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Persistance\\Configurations\\Common\\BaseConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistance\\Configurations\\Common\\BaseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:20:14.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "src\\Domain\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:20:02.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "src\\WebAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:54:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:53:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Common\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Common\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:37:26.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Extensions\\FileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:17:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:39:10.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA2wCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:35:50.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:29:26.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:25:01.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\asger\\Desktop\\Nest\\src\\Application\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\Application\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:23:00.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

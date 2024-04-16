@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "oHENR9lEvZdpP8MMXjqcK0Ewvoq0dEDJFjt8uH+PvzI=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\wwwroot\\uploads\\44856751-5142-42c0-b6e5-67be2a44e109.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/44856751-5142-42c0-b6e5-67be2a44e109.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\44856751-5142-42c0-b6e5-67be2a44e109.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\wwwroot\\uploads\\f250f676-765d-495f-a1dd-321f8a7972a0.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asger\\Desktop\\Nest\\src\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/f250f676-765d-495f-a1dd-321f8a7972a0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f250f676-765d-495f-a1dd-321f8a7972a0.jpg"
+    }
+  ]
+}
