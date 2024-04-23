@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace Nest.Infrastructure.Extentions;
+namespace Nest.Application.Common.Extensions;
 
 public static class FileExtension
 {
@@ -43,9 +43,9 @@ public static class FileExtension
     public static void DeleteFile(this IFormFile file, string root, string folderName, string fileName)
     {
         string path = Path.Combine(root, folderName, fileName);
-        if (System.IO.File.Exists(path))
+        if (File.Exists(path))
         {
-            System.IO.File.Delete(path);
+            File.Delete(path);
         }
     }
 }

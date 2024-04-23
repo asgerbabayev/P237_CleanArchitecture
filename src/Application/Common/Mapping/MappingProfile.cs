@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Nest.Application.Dtos.Auth;
 using Nest.Application.Dtos.Categories;
 using Nest.Domain.Entities;
 
@@ -11,5 +12,8 @@ public class MappingProfile : Profile
         CreateMap<Category, CategoryDto>().ReverseMap();
         CreateMap<Category, CreateCategoryDto>().ReverseMap();
         CreateMap<Category, UpdateCategoryDto>().ReverseMap();
+
+        CreateMap<AppUser, RegisterDto>().ReverseMap();
+        CreateMap<AppUser, LoginDto>().ReverseMap();
     }
 }

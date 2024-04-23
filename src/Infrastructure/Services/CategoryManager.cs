@@ -1,10 +1,11 @@
 ﻿using AutoMapper;
 using Microsoft.Extensions.Hosting;
+using Nest.Application.Common.Extensions;
 using Nest.Application.Dtos.Categories;
 using Nest.Application.Repositories;
 using Nest.Application.Services;
 using Nest.Domain.Entities;
-using Nest.Infrastructure.Extentions;
+using Nest.Domain.Exceptions;
 
 namespace Nest.Infrastructure.Services;
 
@@ -40,13 +41,18 @@ public class CategoryManager : ICategoryService
 
     public async Task<IEnumerable<CategoryDto>> GetAllCategories()
     {
-        IEnumerable<Category> categories = await _categoryRepository.GetAll();
+        IEnumerable<Category> categories = await _categoryRepository.GetAll(null, "SubCategories");
         return _mapper.Map<IEnumerable<CategoryDto>>(categories);
     }
-
+    public async Task<IEnumerable<CategoryDto>> GetAllParentCategoriesWithInclude()
+    {
+        IEnumerable<Category> categories = await _categoryRepository.GetAll(x => x.ParentId == null, "Product", "SubCategories");
+        return _mapper.Map<IEnumerable<CategoryDto>>(categories);
+    }
     public async Task<CategoryDto> GetCategory(int id)
     {
-        Category category = await _categoryRepository.Get(id);
+        Category? category = await _categoryRepository.Get(id);
+        if (category == null) throw new NotFoundException(typeof(Category), 404);
         return _mapper.Map<CategoryDto>(category);
     }
 

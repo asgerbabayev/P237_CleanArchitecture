@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Nest.Application.Dtos.Categories;
 using Nest.Application.Services;
 
@@ -29,15 +31,8 @@ public class CategoriesController : ControllerBase
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id, CategoryDeleteDto categoryDeleteDto)
     {
-        try
-        {
-            await _categoryService.DeleteCategory(id, categoryDeleteDto);
-            return Ok();
-        }
-        catch (Exception e)
-        {
-            return BadRequest(e);
-        }
+        await _categoryService.DeleteCategory(id, categoryDeleteDto);
+        return Ok();
     }
     [HttpGet("{id}")]
     public async Task<IActionResult> Get(int id)
@@ -46,6 +41,7 @@ public class CategoriesController : ControllerBase
     }
 
     [HttpGet]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public async Task<IActionResult> GetAll()
     {
         return Ok(await _categoryService.GetAllCategories());

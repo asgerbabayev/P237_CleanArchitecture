@@ -9,3 +9,5 @@ C:\Users\asger\Desktop\Nest\src\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\asger\Desktop\Nest\src\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\asger\Desktop\Nest\src\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\asger\Desktop\Nest\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\asger\Desktop\Nest\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\asger\Desktop\Nest\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
